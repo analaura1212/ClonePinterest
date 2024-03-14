@@ -17,7 +17,7 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest,creado puramento
 
 ### Vista Previa del Proyecto
 
-(/imagenes/PinterestProyect.png)
+![Demo](/imagenes/PinterestProyect.png)
 
 
 ### Licencia
